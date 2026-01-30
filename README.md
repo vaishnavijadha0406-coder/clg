@@ -1,2 +1,0 @@
-# clg
-web lab
